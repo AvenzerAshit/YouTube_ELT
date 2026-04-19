@@ -1,3 +1,5 @@
+Playlist Id
+
 {
     "kind": "youtube#channelListResponse",
     "etag": "gjYwnV-l5uMFonZR4BgEU7aP068",
@@ -18,4 +20,34 @@
             }
         }
     ]
+}
+
+
+
+
+
+
+
+Video list Id
+
+
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "_4wDOtrl3Jr4dcjvtSXv5BAeqB8",
+    "nextPageToken": "EAAaHlBUOkNBRWlFRUpCUVVVeE5rVkNRVE5HTUVORk1FTQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lxaUnj7pZWtmzUsXkBcXxOFSNvs",
+            "id": "VVV4QTFoQWVyMk9WQXMwRDhUNEhhbFdRLjdKNXJHUjBxN0tz",
+            "contentDetails": {
+                "videoId": "7J5rGR0q7Ks",
+                "videoPublishedAt": "2026-04-19T02:38:46Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1320,
+        "resultsPerPage": 1
+    }
 }
